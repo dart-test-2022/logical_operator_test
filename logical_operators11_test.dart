@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../bin/logical_operators10.dart';
+import '../bin/logical_operators11.dart';
 
 void main() {
   test("The integer is three-digit number", () {
