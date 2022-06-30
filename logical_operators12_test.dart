@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../bin/logical_operators10.dart';
+import '../bin/logical_operators12.dart';
 
 void main() {
   test("All digits of the number are the same", () {
